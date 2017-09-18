@@ -1,0 +1,3 @@
+#!/bin/bash
+# to test including variables from a sub-script
+SSVAR="I am the sub-script variable"

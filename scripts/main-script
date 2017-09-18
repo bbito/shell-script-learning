@@ -1,0 +1,4 @@
+#!/bin/bash
+# to test including variables from a sub-script
+. ./scripts/sub-script
+echo "The sub-script variable SSVAR is ${SSVAR}, okay?"
