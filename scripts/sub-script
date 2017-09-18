@@ -1,3 +1,5 @@
 #!/bin/bash
 # to test including variables from a sub-script
+# The variable(s) here will be included into the main-script
+# With either "." or "source" which are equivalent commands
 SSVAR="I am the sub-script variable"
